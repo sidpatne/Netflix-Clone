@@ -1,0 +1,87 @@
+body{
+    background-image: url('kzi6eq4y.png');
+    color: white;
+    font-family: sans-serif;
+    font-size: x-large;
+    align-items: center;
+    display:flex;
+    justify-content:center
+}
+.input-group input{
+    /* opacity: 0.9; */
+    background-color: black;
+    width: 300px;
+    border: none;
+    color: white;
+    border-radius: 8px;
+    border: 1px solid rgb(150, 147, 147);
+    width: 500px;
+    height: 60px;
+}
+.loginpage{
+    border: none;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.596);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    height: 500px;
+    width: 750px;
+}
+.login-container{
+    /* padding: 20px; */
+    
+}
+.input-group{
+    padding: 10px;
+}
+.signin{
+    border: none;
+    /* padding: 0px 10px; */
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: red;
+    color: white;
+    width: 400px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 400;
+}
+.signin a{
+    text-decoration: none;
+    color: white;
+}
+.signingbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:20px;
+}
+.help-links{
+    margin: 5px 5px;
+}
+.help-links a{
+    text-decoration: none;
+    color: white;
+}
+.signup-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+.signup-link a{
+    text-decoration: none;
+    color: red;
+}
+.input-group ::placeholder{
+    color: white;
+    font-size: x-large;
+    opacity: 0.5;
+    padding: 5px;
+}
