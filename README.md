@@ -24,4 +24,5 @@ A fully functional, responsive Netflix Clone built for streaming vibes with styl
 
 ```bash
 # Clone the repository
+https://github.com/sidpatne/Netflix-Clone.git
 
